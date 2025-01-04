@@ -28,3 +28,23 @@ Or you can **train the models by yourself**:
 ### Inference
 
 Run `Quantitative_Exps.py` to evaluate the model using testing data from dataset.
+
+
+
+### Citation
+
+Please consider citing our paper if our code is useful for your research:
+
+```
+@inproceedings{ji2024text,
+  title={Text-Guided Synthesis of Crowd Animation},
+  author={Ji, Xuebo and Pan, Zherong and Gao, Xifeng and Pan, Jia},
+  booktitle={ACM SIGGRAPH 2024 Conference Papers},
+  pages={1--11},
+  year={2024}
+}Acknowledgement
+```
+
+### Contact
+
+Feel free to email `xbji@connect.hku.hk` or `xueboji.cs@gmail.com` if you have any questions.
